@@ -1,5 +1,5 @@
 # Members
 
-a webapp to manager members
+a webapp to manage members
 
 - - -
